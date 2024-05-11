@@ -28,7 +28,7 @@ For more information on the importance of a professional README for your reposit
   <img src="./images/murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Microverse Figma Portfolio</b></h3>
+  <h3><b>Microverse Figma Responsive Portfolio</b></h3>
   
 
 </div>
@@ -59,11 +59,11 @@ For more information on the importance of a professional README for your reposit
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Portfolio_Mobile-Version] <a name="about-project"></a>
+# 📖 [Portfolio_Responsive-Version] <a name="about-project"></a>
 
 > My Figma portfolio showcases a diverse range of projects, highlighting my proficiency in user interface design, prototyping, and collaborative workflow within the platform. Each project reflects my commitment to delivering elegant and user-centric design solutions.
 
-**[Portfolio_Mobile-Version]** is a full pledge website.
+**[Portfolio_Responsive-Version]** is a full pledge website.
 
 ## 🛠 Built With <a name="built-with"></a>
 
