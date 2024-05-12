@@ -458,6 +458,7 @@ div.connect img {
 /* End works */
 
 /* Start about me */
+
 #about {
   background-color: white;
   border-top-right-radius: 100px;
@@ -502,5 +503,4 @@ div.connect img {
   justify-content: left;
   gap: 16px;
 }
-
 /* End about me */
